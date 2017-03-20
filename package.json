@@ -1,0 +1,26 @@
+{
+  "name": "dynamic-form",
+  "version": "1.0.0",
+  "description": "belajar dynamic form dengan JQuery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ipan97/dynamic-form.git"
+  },
+  "keywords": [
+    "dynamic-form"
+  ],
+  "author": "Ipan Taupik Rahman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ipan97/dynamic-form/issues"
+  },
+  "homepage": "https://github.com/ipan97/dynamic-form#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.0"
+  }
+}
