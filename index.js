@@ -1,3 +1,4 @@
+//aku ganteng
 $(document).ready(function(){
 	var i = $('input').length + 1;
 	$('#add').click(function() {
